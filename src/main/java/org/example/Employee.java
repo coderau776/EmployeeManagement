@@ -39,10 +39,10 @@ public class Employee {
 
 
     public String toString() {
-        return "Employee{" +
+        return "|" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", age=" + age +
-                '}';
+                '|';
     }
 }
